@@ -6,10 +6,3 @@ public class Reader{
 	}
 }
 
-public class Writer{
-	int budgetcount;
-	Writer(int budgetcount){
-		this.budgetcount = budgetcount;;
-	}
-}
-
