@@ -12,3 +12,4 @@ public class Writer{
 		this.count = count;
 	}
 }
+
