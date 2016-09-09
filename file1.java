@@ -7,9 +7,9 @@ public class Reader{
 }
 
 public class Writer{
-	int budget;
-	Writer(int budget){
-		this.budget = budget;
+	int budgetcount;
+	Writer(int budgetcount){
+		this.budgetcount = budgetcount;;
 	}
 }
 
