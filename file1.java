@@ -7,4 +7,8 @@ public class Reader{
 }
 
 public class Writer{
+	int count;
+	Writer(int count){
+		this.count = count;
+	}
 }
