@@ -1,14 +1,15 @@
 this is file1
 public class Reader{
 
-	int number123123;
+	int countNum;
 	String name;
-	Reader(int number123123){
-		this.number123123 = number123123;
+	Reader(int countNum){
+		this.countNum = countNum;
 		name="kitty"
 	}
 }
 
-
-public class Writer{
+public class Mixer{
+	String s;
 }
+
