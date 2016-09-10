@@ -6,3 +6,6 @@ public class Reader{
 	}
 }
 
+
+public class Writer{
+}
